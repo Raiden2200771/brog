@@ -1,0 +1,10 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 33px 20px;
+  color: blue;
+}
